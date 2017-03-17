@@ -7,4 +7,5 @@ In second number do this same.
 
 Now you can see four messages:
 x + x = x | x - x = x | x * x = x | x / x = x
+
 "x" is your number.
